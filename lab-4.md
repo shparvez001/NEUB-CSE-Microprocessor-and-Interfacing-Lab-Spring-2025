@@ -7,7 +7,7 @@ Circuit:
 
 ![Lab 4 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/main/lab-4/CSE-06133118-322-2501-lab4-task-1CKT_bb.png)
 
-Code
+Code:
 ```c
 int ledPin=13;
 void setup() {

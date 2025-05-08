@@ -7,7 +7,7 @@ Circuit:
 
 ![Lab 5 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/main/lab-5/CSE-06133118-322-2501-lab5-task-1CKT_bb.png)
 
-Code
+Code:
 ```c
 int ledPin=13;
 void setup() {
@@ -36,7 +36,7 @@ Circuit:
 
 ![Lab 5 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/main/lab-5/CSE-06133118-322-2501-lab5-task-2CKT_bb.png)
 
-Code
+Code:
 ```c
 int ledPin=12;
 int switchPin=4;
