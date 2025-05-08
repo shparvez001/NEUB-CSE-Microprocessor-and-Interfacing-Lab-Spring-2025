@@ -1,4 +1,4 @@
-# NEUB CSE Microprocessor and Interfacing Lab Spring 2025 Lab 1
+# NEUB CSE Microprocessor and Interfacing Lab Spring 2025 Lab 5
 
 ## Task 1
 LED blinking code in AVR.
@@ -72,4 +72,4 @@ void loop() {
 
 
 
-## [Watch Class video Here](https://www.youtube.com/watch?v=vnGEzz8iMAE)
+## [Watch Class video Here](https://www.youtube.com/watch?v=B4UmzWCzt7M)
