@@ -1,7 +1,7 @@
 # NEUB CSE Microprocessor and Interfacing Lab Spring 2025 Lab 1
 
 ## Task 1
-Basic Input and output code for AVR.
+Hello World program in Arduino.
 
 Circuit:
 

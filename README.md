@@ -25,3 +25,5 @@ NEUB CSE Microprocessor and Interfacing Lab Spring 2025
 	11. Replace the number in AX by its absolute value.
 	12. Write a program to (a) display "?", (b) read three initials,(c) display them in the middle of an 11 x 11 box of asterisks.
 	13. Draw a 10*10 box of stars without using any string. Use only flow control instructions and loop to draw the box.    
+4. [Lab 4](https://github.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/tree/main/lab-4.md).
+    1. Hello World program in Arduino.    
