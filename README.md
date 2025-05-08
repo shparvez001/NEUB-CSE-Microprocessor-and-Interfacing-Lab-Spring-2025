@@ -27,3 +27,6 @@ NEUB CSE Microprocessor and Interfacing Lab Spring 2025
 	13. Draw a 10*10 box of stars without using any string. Use only flow control instructions and loop to draw the box.    
 4. [Lab 4](https://github.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/tree/main/lab-4.md).
     1. Hello World program in Arduino.    
+5. [Lab 5](https://github.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/tree/main/lab-5.md).  
+    1. LED blinking code in AVR.
+    2. Basic Input and output code for AVR.
