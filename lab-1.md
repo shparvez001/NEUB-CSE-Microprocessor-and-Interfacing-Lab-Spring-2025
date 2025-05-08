@@ -36,3 +36,8 @@ General Discussion on lab and finalizing tools to be used.
 1. Installation of Arduino IDE.
 2. Installation of EMU8086.
 
+Embedding class video from youtube:
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vnGEzz8iMAE" frameborder="0" allowfullscreen></iframe>
+``` 
+
