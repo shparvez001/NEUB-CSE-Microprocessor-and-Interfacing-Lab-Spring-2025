@@ -1,4 +1,4 @@
-# NEUB CSE Microprocessor and Interfacing Lab Spring 2025 Lab 1
+# NEUB CSE Microprocessor and Interfacing Lab Spring 2025 Lab 2
 
 Start of assembly language lab before hardware are ready.
 
