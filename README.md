@@ -36,3 +36,10 @@ NEUB CSE Microprocessor and Interfacing Lab Spring 2025
     3. Create a function to output PWM with a specified duty cycle to any given pin. eg: pwm(pinName, dutyCycle);.
     4. PWM using `analogWrite()` function.
     5. Use `analogWrite()` to create a fading LED effect.
+7. [Lab 7](https://github.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/tree/main/lab-7.md).
+    1. Reading analong value using built-in ADC.
+    2. Reading voltage using built-in ADC and showing it inb serial monitor.
+    3. Using LDR as sensor.
+    4. Write an arduino code change the status of LED (on or off) based on switch input.
+    5. Write an arduino code change the status of LED (on or off) based on switch input with a debounce delay of 100ms. 
+	6. Using switch with interrupt.

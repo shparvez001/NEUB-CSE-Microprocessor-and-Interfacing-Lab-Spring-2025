@@ -189,7 +189,7 @@ void loop() {
 Using switch with interrupt.
 
 Circuit:
-![Lab 7 Task 6 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/main/lab-7/CSE-06133118-322-2501-lab7-task-6CKT_bb.png)
+![Lab 7 Task 6 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/main/lab-7/CSE-06133118-322-2501-lab7-task-1_bb.png)
 
 ```c
 int switchPin=2;
