@@ -43,3 +43,7 @@ NEUB CSE Microprocessor and Interfacing Lab Spring 2025
     4. Write an arduino code change the status of LED (on or off) based on switch input.
     5. Write an arduino code change the status of LED (on or off) based on switch input with a debounce delay of 100ms. 
 	6. Using switch with interrupt.
+8.	[Lab 8](https://github.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/tree/main/lab-8.md).
+    1. Driving DC motor using L298 motor driver module.
+    2. Varying Speed of DC motor using L298 motor driver module.
+    3. Driving a Servo motor.
