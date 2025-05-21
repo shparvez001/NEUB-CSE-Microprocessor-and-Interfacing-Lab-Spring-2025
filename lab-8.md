@@ -41,7 +41,7 @@ void loop() {
 Varying Speed of DC motor using L298 motor driver module.
 
 Circuit:
-![Lab 8 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/main/lab-8/CSE-06133118-322-2501-lab8-task1-2CKT_bb.png)
+![Lab 8 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Spring-2025/main/lab-8/CSE-06133118-322-2501-lab8-task-1-2CKT_bb.png)
 
 Code:
 ```c
